@@ -14,7 +14,7 @@
     "elixir",
     "css",
     "url",
-    "replace"
+    "replace",
     "gulp"
   ],
   "dependencies": {
