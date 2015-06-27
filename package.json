@@ -1,0 +1,24 @@
+{
+  "name": "laravel-elixir-css-url-replace",
+  "description": "An extension package for laravel elixir to replace relative url path with absolute path",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Tom.Huang",
+    "email": "hzlhu.dargon@gmail.com",
+    "url": "https://github.com/nanjingboy"
+  },
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "css",
+    "url",
+    "replace"
+    "gulp"
+  ],
+  "dependencies": {
+    "through2": "2.0.0"
+  },
+  "repository": "https://github.com/nanjingboy/laravel-elixir-css-url-replace"
+}
