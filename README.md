@@ -1,6 +1,6 @@
 # laravel-elixir-css-url-replace
 
-An extension package for laravel elixir to replace relative url path with absolute path
+An extension package for laravel elixir to replace relative url path with absolute path.
 
 # Install:
 
@@ -14,7 +14,7 @@ $ npm install laravel-elixir-css-url-replace --save-dev
 Type: `Array`
 
 ### outputPath
-Type: `string`
+Type: `String`
 
 ### staticRoot
 Type: `String`
